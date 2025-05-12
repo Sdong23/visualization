@@ -8,21 +8,23 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-    excel and R
+    excel
     > Who is your intended audience? 
     Public.
     > What information or message are you trying to convey with your visualization? 
-    How many schools are there for a specific type, eg. region.
+    How many schools are there for a specific type, eg. region and credit.
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     Clear and easy to understand. Use proper title and label and different colors. I also included multiple plot styles.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     Use all data points if posssible, if not, use a set seed. If it is not reproducible, it is hard to evaluate and trust the data visualization.
     > How did you ensure that your data visualization is accessible?  
     Graghs have numbers labeled and different colors.
+    https://data.ontario.ca/dataset/private-school-contact-information/resource/d16de265-35e9-4277-9381-0c311e802e39
+    
     > Who are the individuals and communities who might be impacted by your visualization?  
     Parents who are deciding where to live with children going to private schools.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    I chose the data easy to show on the gragh for the general idea. More specific details on each school will have to be found in the table. 
+    I chose the data easy to show on the gragh for the general idea of showing the number of schools and the credits they offered. More specific details on each school will have to be found in the table. 
     > What ‘underwater labour’ contributed to your final data visualization product?
     Adjusting colors, fonts, or chart types, Selecting key metrics.
 
