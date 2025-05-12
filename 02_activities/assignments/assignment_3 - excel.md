@@ -8,7 +8,7 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-    excel and R
+    excel
     > Who is your intended audience? 
     Public.
     > What information or message are you trying to convey with your visualization? 
@@ -19,6 +19,8 @@
     Use all data points if posssible, if not, use a set seed. If it is not reproducible, it is hard to evaluate and trust the data visualization.
     > How did you ensure that your data visualization is accessible?  
     Graghs have numbers labeled and different colors.
+    https://data.ontario.ca/dataset/private-school-contact-information/resource/d16de265-35e9-4277-9381-0c311e802e39
+    
     > Who are the individuals and communities who might be impacted by your visualization?  
     Parents who are deciding where to live with children going to private schools.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
