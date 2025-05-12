@@ -12,7 +12,7 @@
     > Who is your intended audience? 
     Public.
     > What information or message are you trying to convey with your visualization? 
-    How many schools are there for a specific type, eg. region.
+    How many schools are there for a specific type, eg. region and credit.
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     Clear and easy to understand. Use proper title and label and different colors. I also included multiple plot styles.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
@@ -24,7 +24,7 @@
     > Who are the individuals and communities who might be impacted by your visualization?  
     Parents who are deciding where to live with children going to private schools.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    I chose the data easy to show on the gragh for the general idea. More specific details on each school will have to be found in the table. 
+    I chose the data easy to show on the gragh for the general idea of showing the number of schools and the credits they offered. More specific details on each school will have to be found in the table. 
     > What ‘underwater labour’ contributed to your final data visualization product?
     Adjusting colors, fonts, or chart types, Selecting key metrics.
 
