@@ -8,22 +8,23 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+    excel and R
     > Who is your intended audience? 
-    
+    Public.
     > What information or message are you trying to convey with your visualization? 
-    
+    How many schools are there for a specific type, eg. region.
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    Clear and easy to understand. Use proper title and label and different colors. I also included multiple plot styles.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    Use all data points if posssible, if not, use a set seed. If it is not reproducible, it is hard to evaluate and trust the data visualization.
     > How did you ensure that your data visualization is accessible?  
-    
+    Graghs have numbers labeled and different colors.
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    Parents who are deciding where to live with children going to private schools.
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    I chose the data easy to show on the gragh for the general idea. More specific details on each school will have to be found in the table. 
     > What ‘underwater labour’ contributed to your final data visualization product?
+    Adjusting colors, fonts, or chart types, Selecting key metrics.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
