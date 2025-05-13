@@ -11,20 +11,36 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+Good Example: COVID-19 Vaccination Rates Over Time (Line Chart)
+https://ourworldindata.org/covid-vaccinations
+Classification Reasoning:
+This visualization effectively communicates vaccination trends across countries using a line chart, aligning with principles from Cairo’s The Functional Art and Tufte’s emphasis on clarity. 
+Key strengths include:
+Appropriate Chart Type: Line charts excel at showing trends over time, making them ideal for tracking vaccination progress.
+Clarity and Simplicity: Clean design with labeled axes, a consistent color scheme, and a legend avoids chartjunk (Tufte). Interactive filters (e.g., country selection) enhance user engagement without clutter.
+Accurate Scaling: Linear time axis and normalized percentages prevent distortion, adhering to best practices for truthful representation (Heer & Bostock, 2010).
+Gestalt Principles: Proximity (grouped lines) and similarity (color consistency) help viewers distinguish between countries.
 
-
-
-
-
+Bad Example:  "Learning Challenges" Visualization in the Duolingo Dashboard
+https://public.tableau.com/app/profile/ali15tehrani/viz/duolingo/Duolingo
+Classification Reasoning: Table chart.
+Poor Color Contrast and Labeling:
+Key weaknesses include:
+Bars use low-contrast purple with no clear differentiation between challenge types. Axis labels are small and unreadable.
+No annotations for colors or explanations of how "challenges" are defined.
 
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+For good example:
+Add annotations (e.g., “FDA approval dates”) to contextualize spikes/drops.
+Improve accessibility with alt text and high-contrast colors for colorblind users.
 
-
-
+For bad example: 
+Simplify and Standardize Color: Use distinct colors for challenge types.
+Add Annotations.
 
 
 
